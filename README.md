@@ -11,8 +11,8 @@ Image (FontAwesome Icons) Recognition with Python
 2. Then type an icon in the 'images' folder as the file name in the 'whatIcons' function and run the function 'whatIcons'.
 3. As a result, it will return a message as "Most Like: [('founded file name', 'founded score')]".
 
-*That is all :)
-*
+*That is all :)*
+
 **GEREKSINIMLER** 
 - Python3
 - PIL,numpy,matplotlib,functools,glob kütüphaneleri.
