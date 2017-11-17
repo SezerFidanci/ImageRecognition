@@ -10,7 +10,7 @@ def createExamples():
     print('Learning...')
     numberArrayExamples = open('iconArEx.txt','a')
     allFiles = glob.glob("images/imgfolder/*.png")
-    for x in range(0,369):
+    for x in range(0,99):
         imgFilePath =allFiles[x]
         fileName= allFiles[x].replace('.png','')
         fileName= fileName.replace('images/imgfolder/','')
